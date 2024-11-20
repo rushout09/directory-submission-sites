@@ -1,4 +1,4 @@
-# 2000+ free search engine submission sites list
+# 2000+ free Directory submission sites list with high DA
 
 ## Curated list of Top 200 sites to list your tech startup. This list is most useful for AI, SaaS, and Tech Service Companies.
 
