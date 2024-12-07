@@ -288,3 +288,4 @@
 | [SEOExpert AI's SEO Directory Submission Tool](https://tryseoexpert.com/directory-submission-tool/) | 150 | $250 | ₹15,000 |
 | [LinkDR](https://linkdr.com/)'s Backlink Directory Submission Service | 150 | $350 | ₹30,000 |
 | [Listing Bott](https://listingbott.com/) | 100 | $500 | ₹45,000 |
+| [Quicklisting](https://quicklist.ing/) | 100 | $350 | ₹30,000 |
