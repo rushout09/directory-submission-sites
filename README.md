@@ -63,6 +63,7 @@
 | TechDirectory | 56 | http://techdirectory.io/get-listed | Free |
 | Startupxplore | 55 | http://startupxplore.com/ | Free |
 | FiveTaco | 54 | http://fivetaco.com/submit | Free |
+| Firsto | 53 | https://firsto.co | Free |
 | AppAgg | 52 | http://appagg.com/ | Free |
 | Beta Bound | 51 | http://betabound.com/ | Free |
 | Fintech News | 51 | http://fintechnews.sg/submit-your-fintech-startup/ | Free |
