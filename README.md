@@ -289,3 +289,7 @@
 | [LinkDR](https://linkdr.com/)'s Backlink Directory Submission Service | 150 | $350 | ₹30,000 |
 | [Listing Bott](https://listingbott.com/) | 100 | $500 | ₹45,000 |
 | [Quicklisting](https://quicklist.ing/) | 100 | $350 | ₹30,000 |
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of tools, software, and digital resources.
