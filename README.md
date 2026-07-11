@@ -30,6 +30,7 @@
 | There's An AI For That | 74 | https://theresanaiforthat.com | Paid |
 | Alternative Me | 73 | https://alternative.me | Free |
 | BetaList | 73 | http://betalist.com/submissions/new | Free |
+| ToolMagpie | 1 | https://toolmagpie.com | Free |
 | SaaSworthy | 73 | http://saasworthy.com/offerings | Free |
 | e27.sg | 73 | http://e27.co | Free |
 | Alternative .me | 72 | http://alternative.me/how-to/submit-software | Free |
