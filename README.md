@@ -289,3 +289,4 @@
 | [LinkDR](https://linkdr.com/)'s Backlink Directory Submission Service | 150 | $350 | ₹30,000 |
 | [Listing Bott](https://listingbott.com/) | 100 | $500 | ₹45,000 |
 | [Quicklisting](https://quicklist.ing/) | 100 | $350 | ₹30,000 |
+| [Submitwell](https://submitwell.com/) | 100 | $59 | ₹7,000 |
