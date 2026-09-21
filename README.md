@@ -279,6 +279,7 @@
 | Webrazzi | 60 | http://webrazzi.com/en/startup-form/ | Free |
 | Zumvu | 46 | http://zumvu.com/make-profile.zvx | Free |
 | Peer List | - | https://peerlist.io/ | Free |
+| Dayront | 80 | https://dayront.com | Free |
 
 
 ## Directory Submission Tools
