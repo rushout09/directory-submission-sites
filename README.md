@@ -279,6 +279,7 @@
 | Webrazzi | 60 | http://webrazzi.com/en/startup-form/ | Free |
 | Zumvu | 46 | http://zumvu.com/make-profile.zvx | Free |
 | Peer List | - | https://peerlist.io/ | Free |
+| StarTap | - | https://startap.cc/play/project | Free |
 
 
 ## Directory Submission Tools
