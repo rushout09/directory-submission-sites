@@ -114,6 +114,7 @@
 | Aixploria | 35 | https://www.aixploria.com/en/add-ai/ | Paid |
 | Launching Next | 35 | https://www.launchingnext.com | Free |
 | Startup88 | 35 | https://startup88.com | Free |
+| EliteAI.tools | 35 | https://eliteai.tools | Free |
 | Appy Smarts | 34 | http://appysmarts.com/ | Free |
 | Dang AI Tools | 34 | https://dang.ai | Free |
 | Makerlog | 34 | http://getmakerlog.com/ | Free |
