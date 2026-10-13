@@ -52,6 +52,7 @@
 | SoMuch | 64 | https://somuch.com | Free |
 | SubmissionWebDirectory | 64 | https://www.submissionwebdirectory.com | Free |
 | Techjockey | 64 | https://www.techjockey.com/ | Free |
+| SaaSCity | 64 | https://saascity.io/submit | Free |
 | Future Tools | 62 | http://futuretools.io/submit-a-tool | Free |
 | betalist.com | 61 | http://betalist.com/ | Free |
 | KillerStartups | 60 | https://www.killerstartups.com | Free |
