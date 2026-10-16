@@ -279,6 +279,7 @@
 | Webrazzi | 60 | http://webrazzi.com/en/startup-form/ | Free |
 | Zumvu | 46 | http://zumvu.com/make-profile.zvx | Free |
 | Peer List | - | https://peerlist.io/ | Free |
+| Public Prompts | - | https://www.publicprompts.art/submit | Paid (US$19.99 one-time plus tax) |
 
 
 ## Directory Submission Tools
